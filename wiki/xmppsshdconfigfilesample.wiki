@@ -4,23 +4,23 @@
 
 <xmpp-sshd version='0.1'>
  <host-setting>
-  <jid>adrien.pinet@gmail.com</jid>
-  <host>talk.google.com</host>
-  <port>5222</port>
-  <encrypted-password>
+  *<jid>*adrien.pinet@gmail.com*</jid>*
+  *<host>*talk.google.com*</host>*
+  *<port>*5222*</port>*
+  *<encrypted-password>*
    tCKqoMKvi4RH798mikcjKWG0ehiHzeltbDQLmA==
   </encrypted-password>
- </host-setting>
- <sshd-key>
-  <n>
+ *</host-setting>*
+ *<sshd-key>*
+  *<n>*
     ssBZgpaoEl5VSfEswwHjT5e+0o3SFpTFxTxpbfu8mLrrOtNMF0Q5KS084c1RFK9ALc29GAJ
     DTvwtX4XdVFzo31YmLfzHrrAh3ILg9tvFH8zrcNC9hZDFXJEyaXK7tmxzCZtw8mLR5pCN4j
     k6aiw2bEvIXnjAaRvJXaF8TR8Ck2TrvhWV1pX9nvHjBGtBT71phJ7Byje7XlUE9LXvBSlWTL7Q
     XAqBHWqoOiwNljbYI3rUvbO3G1kXAS5NqdYuXGj9iLhpY2S5TJ7/cOEihE13W/xkv6Z2ZSFC
     DuHLnAh/dgXYOo7J20theFwWgsIBMvGYo/EGfHvo+3SKGVaBVdUukQ==
-  </n>
-  <e>EQ==</e>
-  <encrypted-d>
+  *</n>*
+  *<e>*EQ==</e>*
+  *<encrypted-d>*
     +V19J4P28+ioN8plHbIJyhnZ3UohWkQNoQpjD88Z+d6hAAg2U8Faz94+bnQlApqrNf10A
     Dqwu8sqRKtcHKk9BsbNp1TLcPLVXzxg8vDREvWST6FlxP1Sy/JB+tLDY01H4rjci2xudzV8jJ
     j27At96Q9kePNANLw9xCA3tU1jlonZo/KcESPiUA1iZ6pwVXBSa9/hOHBHhkhDegjqb1eAIr
@@ -28,12 +28,5 @@
     sy4a3Y81DcxJ7PVadHKctkesvd/eaWC0aApoCnko9Rs1Bh+0PfI0E5w3biUBLOo1j/hnY73y
     +oUWuK2pHa+ljr/vwRfN+hXNoNQT/Psq0eQ6bg1AbANMwLhFLAeZuUZ6qTc7I/nT1oIg6
     9plGaDWUrXQfi0QlUsDPaIprTUEvkyQoDH421Se1KafbEu</encrypted-d>
- </sshd-key>
-</xmpp-sshd>
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+ *</sshd-key>*
+*</xmpp-sshd>*
