@@ -1,13 +1,14 @@
 #summary an example of configuration file
 
-= Introduction =
-
+= Description =
+{{{
 <xmpp-sshd version='0.1'>
  <host-setting>
   <jid>adrien.pinet@gmail.com</jid>
   <host>talk.google.com</host>
   <port>5222</port>
-  <encrypted-password>tCKqoMKvi4RH798mikcjKWG0ehiHzeltbDQLmA==
+  <encrypted-password>
+   tCKqoMKvi4RH798mikcjKWG0ehiHzeltbDQLmA==
   </encrypted-password>
  </host-setting>
  <sshd-key>
@@ -30,3 +31,4 @@
   </encrypted-d>
  </sshd-key>
 </xmpp-sshd>
+}}}
